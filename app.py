@@ -110,6 +110,7 @@ if __name__ == '__main__':
     cache.set('data', data, timeout=0)
     batch_ids = set(['batch_{}'.format(batch_id) for batch_id in data['Batch ID']])
     cache.set('batch_ids', batch_ids, timeout=0)
+    cache.set('/', layout.make(cache, 'batch_1'))
 
     for batch_id in batch_ids:
         cache.set('/' + batch_id, layout.make(cache, batch_id))
