@@ -14,22 +14,23 @@ dash_app = Dash(__name__)
 dash_app.server.name = 'IndPenSim'
 dash_app.config['supress_callback_exceptions'] = True
 dash_app.index_string = '''
-    <!DOCTYPE html>
-    <html>
-        <head>
-            {%meta%}
-            <title>IndPenSim Batch Data</title>
-            <!-- link rel="shortcut icon" type="image/png" href"assets/icon.png"/ -->
-            {%css%}
-        </head>
-        <body>
-            {%app_entry%}
-            <footer>
-                {%config%}
-                {%scripts%}
-            </footer>
-        </body
-    </html>
+<!DOCTYPE html>
+<html>
+    <head>
+        {%metas%}
+        <title>IndPenSim Batch Data</title>
+        <!-- link rel="shortcut icon" type="image/png" href"assets/icon.png"/ -->
+        {%css%}
+    </head>
+    <body>
+        {%app_entry%}
+        <footer>
+            {%config%}
+            {%scripts%}
+            {%renderer%}
+        </footer>
+    </body
+</html>
 '''
 
 for css in [
@@ -37,7 +38,7 @@ for css in [
     'https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css',
 ]:
     dash_app.css.append_css({'external_url': css})
-    
+
 
 dash_app.layout = html.Div([
     dcc.Location(

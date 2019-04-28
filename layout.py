@@ -6,6 +6,8 @@ import plotly.graph_objs as go
 
 def __make_header(batch_id, batch_ids):
     return html.Div([
+        html.H2('Select batch'),
+
         dcc.Dropdown(
             id='dropdown',
             options=[
@@ -14,8 +16,6 @@ def __make_header(batch_id, batch_ids):
             ],
             value=batch_id
         ),
-
-        html.Br([]),
 
         html.Button('Refresh', id='button', value=batch_id)
     ], className='row')
@@ -30,7 +30,7 @@ def decorate(make):
             __make_header(batch_id, batch_ids),
             html.Br([]),
             page
-        ]) 
+        ], className='container') 
 
     return wrapper
 
@@ -99,17 +99,18 @@ def make(cache, batch_id):
                 figure={
                     'data': [
                         go.Scatter(
-                            x=batch_data['Time'],
+                            x=raman_spectra,
                             y=batch_data[x],
                             line={
                                 'width': 1
                             },
                             mode='lines',
-                            hoverinfo=None,
+                            hoverinfo='none',
                             name=x,
                         ) for x in raman_spectra
                     ],
                     'layout': go.Layout(
+                        hovermode=False,
                         font={
                             'family': 'Arial',
                             'size': 9
@@ -120,12 +121,12 @@ def make(cache, batch_id):
                             'size': 9,
                         },
                         xaxis={
-                            'title': 'Time',
+                            'title': 'Wavelength',
                             'showline': True,
                             'zeroline': False
                         },
                         yaxis={
-                            'title': 'Value',
+                            'title': 'Intensity',
                             'showline': True,
                             'zeroline': False
                         }
