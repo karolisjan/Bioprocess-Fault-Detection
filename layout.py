@@ -6,7 +6,9 @@ import plotly.graph_objs as go
 
 def __make_header(batch_id, batch_ids):
     return html.Div([
-        html.H3('Select batch'),
+        html.Br([]),
+
+        html.H5('Select batch'),
 
         dcc.Dropdown(
             id='dropdown',
@@ -89,7 +91,9 @@ def make(cache, batch_id):
                 config={
                     'displayModeBar': False
                 }
-            )
+            ),
+
+            html.P(['Click the variable name in the legend to plot it. Double click once to plot all variables. Double click twice to undo.'])
         ], className='six columns'),
 
         # Plot for Raman spectra
@@ -98,15 +102,15 @@ def make(cache, batch_id):
                 id='raman_plot',
                 figure={
                     'data': [
-                        go.Scatter(
-                            x=[wavelength] * len(batch_data[wavelength]),
-                            y=batch_data[wavelength],
-                            line={
-                                'width': 1
-                            },
-                            mode='lines',
-                            hoverinfo='none',
-                        ) for wavelength in raman_spectra
+                        # go.Scatter(
+                        #     x=raman_spectra,
+                        #     y=batch_data[wavelength],
+                        #     line={
+                        #         'width': 1
+                        #     },
+                        #     mode='lines',
+                        #     hoverinfo='none',
+                        # ) for wavelength in raman_spectra
                     ],
                     'layout': go.Layout(
                         hovermode=False,
