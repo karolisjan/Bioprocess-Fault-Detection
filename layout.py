@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 
 def __make_header(batch_id, batch_ids):
     return html.Div([
-        html.H2('Select batch'),
+        html.H3('Select batch'),
 
         dcc.Dropdown(
             id='dropdown',
@@ -30,7 +30,7 @@ def decorate(make):
             __make_header(batch_id, batch_ids),
             html.Br([]),
             page
-        ], className='container') 
+        ], className='row') 
 
     return wrapper
 
@@ -99,7 +99,7 @@ def make(cache, batch_id):
                 figure={
                     'data': [
                         go.Scatter(
-                            x=raman_spectra,
+                            x=[x],
                             y=batch_data[x],
                             line={
                                 'width': 1
