@@ -99,15 +99,14 @@ def make(cache, batch_id):
                 figure={
                     'data': [
                         go.Scatter(
-                            x=[x],
-                            y=batch_data[x],
+                            x=[wavelength] * len(batch_data[wavelength]),
+                            y=batch_data[wavelength],
                             line={
                                 'width': 1
                             },
                             mode='lines',
                             hoverinfo='none',
-                            name=x,
-                        ) for x in raman_spectra
+                        ) for wavelength in raman_spectra
                     ],
                     'layout': go.Layout(
                         hovermode=False,
