@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="596.34967"
+   height="559.51263"
+   id="svg3894"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="IndPenSim_main_image.svg"
+   inkscape:export-filename="C:\Users\Stephen\Dropbox\UCL MedImmune\Journal Articles Preparation folder\IndPenSimV2\Bioprocess-Fault-Detection\Website_images\IndPenSim_main_image_1.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5397428"
+     inkscape:cx="466.04623"
+     inkscape:cy="204.055"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7529"
+     showgrid="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2019"
+     inkscape:window-x="4306"
+     inkscape:window-y="-14"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       originy="-306.62224"
+       originx="-21.396141"
+       type="xygrid"
+       id="grid7521"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3896">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4625"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient7243"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7237"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3170-1">
+      <rect
+         ry="43.111477"
+         y="450.53806"
+         x="-37.782398"
+         height="623.45825"
+         width="758.31982"
+         id="rect3172-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237"
+       id="linearGradient7241"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243"
+       id="linearGradient7247"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237"
+       id="linearGradient7877"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243"
+       id="linearGradient7879"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6"
+       id="linearGradient7877-5"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9"
+       id="linearGradient7879-5"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7237-6-1"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7243-9-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12"
+       id="linearGradient7877-5-4"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8"
+       id="linearGradient7879-5-9"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7"
+       id="linearGradient7877-5-4-4"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2"
+       id="linearGradient7879-5-9-3"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8"
+       id="linearGradient7877-5-4-4-7"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7-8"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6"
+       id="linearGradient7879-5-9-3-1"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2-6"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-1"
+       id="linearGradient7877-5-4-4-7-8"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-1"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-2"
+       id="linearGradient7879-5-9-3-1-9"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-2"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-6"
+       id="linearGradient7877-5-4-4-7-3"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-6"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-28"
+       id="linearGradient7879-5-9-3-1-0"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-28"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-41" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-3"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-06" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-3-8"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-06-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-0-4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-9-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-3-82"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-06-32" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-0-40"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-9-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-3"
+       id="linearGradient9772"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-0"
+       id="linearGradient9774"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-3-8"
+       id="linearGradient9776"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-0-4"
+       id="linearGradient9778"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-3-82"
+       id="linearGradient9780"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-0-40"
+       id="linearGradient9782"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-4"
+       id="linearGradient7877-5-4-4-7-5"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-08"
+       id="linearGradient7879-5-9-3-1-6"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-08"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-2" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4625-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7237-6-12-7-8-1-4"
+       id="linearGradient7877-5-4-4-7-8-2"
+       gradientUnits="userSpaceOnUse"
+       x1="472.64059"
+       y1="558.1629"
+       x2="485.56076"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7237-6-12-7-8-1-4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7239-0-2-1-8-0-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7243-9-8-2-6-2-1"
+       id="linearGradient7879-5-9-3-1-9-5"
+       gradientUnits="userSpaceOnUse"
+       x1="484.56674"
+       y1="558.1629"
+       x2="497.48691"
+       y2="558.1629" />
+    <linearGradient
+       id="linearGradient7243-9-8-2-6-2-1"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7245-4-22-1-3-4-7" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata3899">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-21.396141,-186.22731)"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7059"
+       transform="matrix(0.66315149,0,0,0.66315149,44.005206,237.43395)" />
+    <g
+       id="g7432">
+      <g
+         id="g7529"
+         transform="translate(13.072105,0.6224812)"
+         style="display:inline">
+        <g
+           transform="matrix(0.66315149,0,0,0.66315149,44.005206,237.43395)"
+           id="g7055"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g7052">
+            <path
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;marker:none;enable-background:accumulate"
+               d="m 295.92026,76.674301 h 133.53232 c 90.18138,0 162.78228,72.600899 162.78228,162.782289 v 300.12976 c 0,90.18139 -72.6009,162.78229 -162.78228,162.78229 H 295.92026 c -90.18139,0 -162.78229,-72.6009 -162.78229,-162.78229 V 239.45659 c 0,-90.18139 72.6009,-162.782289 162.78229,-162.782289 z"
+               id="rect7004"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 132.92852,388.59988 H 434.87875"
+           id="path7339"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffccaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 222.97006,699.57605 c -38.88603,-6.53693 -71.6474,-34.98308 -83.49932,-72.50104 -4.9688,-15.72904 -4.91028,-14.17389 -4.91412,-130.5812 l -0.004,-107.17913 h 73.50683 73.50684 v 21.56788 21.56787 H 267.9213 254.27632 v -6.16225 -6.16225 h -22.88835 -22.88836 v 15.40562 15.40563 h 22.88836 22.88835 v -8.36306 -8.36305 h 13.64498 13.64499 v 48.85784 48.85783 h -13.20483 -13.20482 v -6.16225 -6.16225 h -22.44819 -22.44819 v 15.40563 15.40562 h 22.44819 22.44819 v -7.92289 -7.92289 h 13.20482 13.20483 v 48.41767 48.41767 h -12.76466 -12.76466 v -6.16225 -6.16224 h -22.88836 -22.88835 v 15.40562 15.40562 h 22.88835 22.88836 v -7.92289 -7.92289 h 27.28996 27.28996 v 7.92289 7.92289 h 22.88835 22.88836 v -15.40562 -15.40562 h -22.88836 -22.88835 v 6.16224 6.16225 h -13.64498 -13.64498 v -48.41767 -48.41767 h 13.20482 13.20482 v 7.92289 7.92289 h 22.88835 22.88836 v -15.40562 -15.40563 h -22.88836 -22.88835 v 6.16225 6.16225 h -13.20482 -13.20482 v -48.85783 -48.85784 h 12.76466 12.76466 v 8.36305 8.36306 h 22.88835 22.88836 V 435.53155 420.12593 H 331.7446 308.85625 v 6.16225 6.16225 h -12.76466 -12.76466 v -21.56787 -21.56788 h 75.70763 75.70764 l -0.003,104.97832 c -0.003,119.01558 0.0128,118.6926 -6.64988,137.35367 -3.78418,10.59882 -6.55246,14.29783 -6.55246,8.75548 0,-1.34481 -0.63419,-3.35053 -1.40931,-4.45717 -5.0765,-7.24772 -15.7341,-0.61199 -12.75278,7.94024 1.23554,3.54427 1.29969,3.36362 -1.19445,3.36362 -1.18344,0 -3.2632,0.95606 -4.62168,2.12458 -2.02665,1.74325 -2.46997,2.83655 -2.46997,6.09133 0,5.20039 2.86817,8.51019 7.37468,8.51019 h 3.10634 l -3.43845,3.52129 c -1.89114,1.93671 -3.75419,3.52129 -4.14011,3.52129 -0.38576,0 -0.7015,-1.21892 -0.7015,-2.70868 0,-3.46463 -4.18237,-7.85518 -7.48273,-7.85518 -3.32404,0 -7.48273,4.38999 -7.48273,7.89889 0,4.05255 2.27137,7.83289 5.07786,8.4513 1.32267,0.29146 2.77596,0.61896 3.22951,0.7278 1.15072,0.27612 -12.86637,9.43746 -19.55567,12.78127 -8.05562,4.02679 -19.74526,7.73132 -29.27067,9.27609 -11.43045,1.85372 -111.79471,1.84313 -122.83596,-0.0129 v -2e-5 z"
+           id="path7344"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd3aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 249.87518,700.02017 c -30.28657,-0.63668 -32.6927,-0.98346 -48.1297,-6.9366 -34.28112,-13.2202 -61.74938,-48.11751 -65.43279,-83.1297 -0.46531,-4.42287 -1.11703,-55.87604 -1.44827,-114.34038 l -0.60226,-106.29881 h 73.65229 73.6523 v 21.56788 21.56787 h -13.64499 -13.64498 v -6.16225 -6.16225 h -22.88835 -22.88836 v 15.40562 15.40563 h 22.88836 22.88835 v -8.36306 -8.36305 h 13.64498 13.64499 v 48.85784 48.85783 H 268.36192 255.1571 v -6.16225 -6.16225 h -22.44819 -22.44819 v 15.40563 15.40562 h 22.44819 22.44819 v -7.92289 -7.92289 h 13.20482 13.20483 v 48.41767 48.41767 h -12.76466 -12.76466 v -6.16225 -6.16224 h -22.88836 -22.88835 v 15.40562 15.40562 h 22.88835 22.88836 v -7.92289 -7.92289 h 27.28996 27.28996 v 7.92289 7.92289 h 22.88835 22.88836 V 634.48418 619.07856 H 333.5057 310.61735 v 6.16224 6.16225 h -13.64498 -13.64498 v -48.41767 -48.41767 h 13.20482 13.20482 v 7.92289 7.92289 h 22.88835 22.88836 v -15.40562 -15.40563 h -22.88836 -22.88835 v 6.16225 6.16225 h -13.20482 -13.20482 v -48.85783 -48.85784 h 12.76466 12.76466 v 8.36305 8.36306 h 22.88835 22.88836 v -15.40563 -15.40562 h -22.88836 -22.88835 v 6.16225 6.16225 h -12.76466 -12.76466 v -21.56787 -21.56788 h 75.70763 75.70764 l -0.0692,57.88113 c -0.038,31.83462 -0.40104,81.84788 -0.80667,111.14057 -0.61804,44.63211 -0.976,54.32895 -2.20982,59.86185 -1.55532,6.9746 -6.05196,19.51394 -8.03446,22.40493 -1.11151,1.62087 0.11093,4.63918 -0.42422,1.96348 -0.58566,-2.92854 -6.09166,-10.28326 -8.37413,-10.28326 -2.30427,0 -6.74284,-0.0512 -6.41284,2.49464 3.13934,24.21912 18.82266,1.3065 12.1895,13.72008 -1.8422,3.44758 -6.08781,16.79733 -9.93481,4.91299 -0.82912,-2.56136 -12.01653,-1.61329 -12.01653,1.41629 0,1.18885 0.56811,3.52123 1.26246,5.18306 1.19552,2.86127 2.04871,3.37173 6.93687,4.15031 1.33071,0.21195 1.08195,0.75227 -1.49221,3.24122 l -3.08914,2.98687 -0.60191,-2.54671 c -0.92452,-3.91168 -4.62219,-7.38847 -7.85784,-7.38847 -6.59825,0 -10.15447,9.7328 -5.32194,14.56531 1.18843,1.18844 2.77301,2.16079 3.52128,2.16079 2.78346,0 1.13316,1.51668 -7.54144,6.93088 -16.71663,10.43359 -30.78529,14.8773 -49.19927,15.54001 -21.78353,0.78398 -58.18275,0.9415 -85.39117,0.36952 z"
+           id="path7346"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsssscsssssssscsssssscc"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd3aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path7356"
+           sodipodi:cx="228.22331"
+           sodipodi:cy="372.75409"
+           sodipodi:rx="93.974304"
+           sodipodi:ry="15.845784"
+           d="m 322.1888,372.53704 a 93.974304,15.845784 0 0 1 -46.23712,13.86698 93.974304,15.845784 0 0 1 -94.34344,0.10895 93.974304,15.845784 0 0 1 -47.35923,-13.75888 l 93.9743,0 z"
+           transform="matrix(-0.77283396,0,0,-0.93149408,385.01506,741.99829)"
+           sodipodi:start="6.2694875"
+           sodipodi:end="3.1415927"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd3aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path7356-9"
+           sodipodi:cx="228.22331"
+           sodipodi:cy="372.75409"
+           sodipodi:rx="93.974304"
+           sodipodi:ry="15.845784"
+           d="m 322.1888,372.53704 a 93.974304,15.845784 0 0 1 -46.23712,13.86698 93.974304,15.845784 0 0 1 -94.34344,0.10895 93.974304,15.845784 0 0 1 -47.35923,-13.75888 l 93.9743,0 z"
+           transform="matrix(-0.80562083,0,0,-1,541.38528,766.83215)"
+           sodipodi:start="6.2694875"
+           sodipodi:end="3.1415927"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(0.66315149,0,0,0.66315149,44.005206,237.43395)"
+           style="fill:#ffd3aa;fill-opacity:1;stroke:none"
+           d="m 143.38439,190.44948 41.4838,37.83323 -49.11682,0.99561 3.65057,-23.23093 z"
+           id="path7380"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(0.66315149,0,0,0.66315149,44.005206,237.43395)"
+           style="fill:#ffd3aa;fill-opacity:1;stroke:none"
+           d="m 582.4489,189.28792 -41.4838,37.83323 49.11682,3.81162 -3.65057,-26.04694 z"
+           id="path7380-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           transform="matrix(0.66315149,0,0,0.66315149,44.005206,237.43395)"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd3aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect7400"
+           width="50.218914"
+           height="12.202725"
+           x="333.51627"
+           y="224.29385"
+           ry="6.1013627"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6167"
+           d="M 282.44783,286.49882 V 631.72226"
+           style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           transform="matrix(0.66315149,0,0,0.66315149,42.061385,243.65419)"
+           id="g6797"
+           style="stroke-width:4.52622032;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g6699"
+             transform="translate(0,-6)"
+             style="stroke-width:4.52622032;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6169"
+               d="m 273.57811,592.75096 h 181.3432"
+               style="fill:#000000;stroke:#000000;stroke-width:4.52622032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="254.81847"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="405.67728"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171-8"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+          </g>
+          <g
+             id="g6699-6"
+             transform="translate(-1.1724898,-156.20371)"
+             style="stroke-width:4.52622032;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6169-5"
+               d="m 273.57811,592.75096 h 181.3432"
+               style="fill:#000000;stroke:#000000;stroke-width:4.52622032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="254.81847"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171-0"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="405.67728"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171-8-2"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+          </g>
+          <g
+             id="g6699-8"
+             transform="translate(-2.7357932,-306.40747)"
+             style="stroke-width:4.52622032;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6169-6"
+               d="m 273.57811,592.75096 h 181.3432"
+               style="fill:#000000;stroke:#000000;stroke-width:4.52622032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="254.81847"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171-02"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+            <rect
+               ry="0"
+               y="573.20966"
+               x="405.67728"
+               height="45.3358"
+               width="67.222046"
+               id="rect6171-8-4"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.52622032;marker:none;enable-background:accumulate" />
+          </g>
+        </g>
+        <rect
+           ry="2.3861854"
+           y="346.72144"
+           x="175.33733"
+           height="4.7723708"
+           width="217.70848"
+           id="rect6861"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.6400001;marker:none;enable-background:accumulate"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g7080"
+           transform="matrix(0.65407055,0,0,0.56141766,47.807092,308.85551)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <ellipse
+             transform="translate(20.322945,-18.759642)"
+             id="path7040"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             cx="540.12134"
+             cy="610.72894"
+             rx="8.5981693"
+             ry="11.724776" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7042"
+             d="m 561.22595,591.18766 38.30093,21.1046"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-159.45695,42.209193)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046"><rect
+               id="rect7048"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7050"
+             style="font-size:12px;line-height:1.25">Temperature probe (<flowSpan
+   id="flowSpan3490"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">T</flowSpan>)</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-166.09464,57.279549)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-9"><rect
+               id="rect7048-0"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7050-0"
+             style="font-size:12px;line-height:1.25">pH probe (pH)</flowPara></flowRoot>        <g
+           id="g7080-6"
+           transform="matrix(0.65407055,0,0,0.56141766,39.753621,323.32693)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <ellipse
+             transform="translate(20.322945,-18.759642)"
+             id="path7040-1"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             cx="540.12134"
+             cy="610.72894"
+             rx="8.5981693"
+             ry="11.724776" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7042-3"
+             d="m 561.22595,591.18766 38.30093,21.1046"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           id="g7080-6-8"
+           transform="matrix(0.65407055,0,0,0.56141766,27.247193,336.61501)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <ellipse
+             transform="translate(20.322945,-18.759642)"
+             id="path7040-1-9"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             cx="540.12134"
+             cy="610.72894"
+             rx="8.5981693"
+             ry="11.724776" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7042-3-3"
+             d="m 561.22595,591.18766 38.30093,21.1046"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-179.42766,72.812451)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-9-4"><rect
+               id="rect7048-0-6"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7050-0-0"
+             style="font-size:12px;line-height:1.25">DO<flowSpan
+   id="flowSpan11724"
+   style="font-size:65.00091553%;baseline-shift:sub">2</flowSpan> probe (<flowSpan
+   id="flowSpan3486"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">DO</flowSpan><flowSpan
+   id="flowSpan11726"
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub">2</flowSpan>)</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 437.72497,557.57663 h 22.6679"
+           id="path7203"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 437.72497,561.87572 h 21.88625"
+           id="path7205"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g7249"
+           transform="translate(-22.435046,1.7587164)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7209"
+             d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+             style="fill:url(#linearGradient7877);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7209-6"
+             d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+             style="fill:url(#linearGradient7879);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <ellipse
+             transform="translate(20.371783,-3.126606)"
+             id="path7207"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             cx="464.69196"
+             cy="561.28949"
+             rx="6.6440396"
+             ry="6.448627" />
+        </g>
+        <g
+           id="g7268"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7258"
+             d="m 462.34295,554.093 v -6.90889"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)"
+             sodipodi:end="3.1415927"
+             sodipodi:start="6.2694875"
+             d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+             sodipodi:ry="8.4288464"
+             sodipodi:rx="8.4288464"
+             sodipodi:cy="533.78088"
+             sodipodi:cx="497.57831"
+             id="path7266"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             sodipodi:type="arc" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.98557115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 475.0481,557.95477 h 9.96323 v 7.33785"
+           id="path7272"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 474.64078,561.69278 h 7.18525 v 3.45444"
+           id="path7274"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect7278"
+           width="11.054225"
+           height="19.897604"
+           x="478.37158"
+           y="571.22705"
+           ry="3.3162675"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 480.58243,571.22705 v -4.42169"
+           id="path7280"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 486.9386,571.77976 v -4.9744"
+           id="path7282"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect7284"
+           width="5.2507567"
+           height="20.726671"
+           x="480.99695"
+           y="565.56177"
+           ry="1.6581337"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-106.40442,-50.688523)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-1"><rect
+               id="rect7048-8"
+               width="131.05498"
+               height="76.656944"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7050-4"
+             style="font-size:12px;line-height:1.25">Penicillin (<flowSpan
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'"
+   id="flowSpan7325">P </flowSpan>) </flowPara><flowPara
+             id="flowPara7323"
+             style="font-size:12px;line-height:1.25">Phenalcetic acid (<flowSpan
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'"
+   id="flowSpan5386">PAA</flowSpan>)</flowPara><flowPara
+             id="flowPara7327"
+             style="font-size:12px;line-height:1.25">Nitrogen (<flowSpan
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'"
+   id="flowSpan7335">N</flowSpan>)</flowPara><flowPara
+             id="flowPara5390"
+             style="font-size:12px;line-height:1.25">Viscosity (     )</flowPara><flowPara
+             id="flowPara5388"
+             style="font-size:12px;line-height:1.25"> </flowPara><flowPara
+             id="flowPara7331"
+             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>        <path
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="3.817752"
+           d="m 234.31551,669.33159 a 20.687551,10.343776 0 0 1 26.18306,-2.56882 20.687551,10.343776 0 0 1 9.46936,12.47276 20.687551,10.343776 0 0 1 -22.99689,6.76556 20.687551,10.343776 0 0 1 -17.20716,-10.19634"
+           sodipodi:ry="10.343776"
+           sodipodi:rx="20.687551"
+           sodipodi:cy="675.80475"
+           sodipodi:cx="250.45143"
+           id="path7513"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd3aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+           sodipodi:type="arc"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g3664"
+           transform="translate(-6.4158459,1.1683083)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 289.62573,684.58866 V 669.18304"
+             id="path7511"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 214.79841,660.61919 c 0,0 19.87621,5.22415 37.41366,4.62169 21.20108,-0.72832 25.17521,4.66327 37.41366,4.62168 12.23845,-0.0416 29.62742,-6.31276 44.36615,-4.65204 14.73873,1.66072 26.49972,-4.59133 26.49972,-4.59133"
+             id="path7525"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cszzc" />
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.48230088;fill:#62a1c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect7903"
+           width="31.691568"
+           height="212.59761"
+           x="133.94156"
+           y="394.13968"
+           ry="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.48230088;fill:#62a1c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect7903-5"
+           width="31.691568"
+           height="212.59761"
+           x="403.31989"
+           y="394.13968"
+           ry="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g8154"
+           transform="translate(0,-1.76e-5)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             transform="translate(-13.072105,-0.6224812)"
+             inkscape:connector-curvature="0"
+             id="path7933"
+             d="m 145.6606,387.55226 46.68609,0.62248 -2.48992,229.07308"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.98408127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 434.1886,612.89841 -46.70201,-0.6124 2.49077,-225.36419"
+           id="path7933-5"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 191.72421,393.15459 209.15368,21.78684 -207.90872,39.21632 207.90872,22.40932 -206.66376,29.25662 209.77617,31.74654 -212.26609,37.97135 211.02113,23.03181 -211.64361,16.80699 212.88857,-1.24496"
+           id="path7953"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 131.85905,386.20014 H 109.19114"
+           id="path7203-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 131.85905,390.49923 H 109.97279"
+           id="path7205-3"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g8126-5"
+           transform="translate(-360.45692,-226.94052)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-4-0"
+             d="m 437.5153,613.5882 h 22.6679"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-2-4"
+             d="m 437.5153,617.88729 h 21.88625"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           id="g8021"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4">
+            <path
+               style="fill:url(#linearGradient7877-5);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 189.23428,616.62534 H 148.77301"
+           id="path8222"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-664.71405,-232.75711)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5"><rect
+               id="rect7048-4"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7050-03"
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">*Cooling water </flowPara><flowPara
+             id="flowPara8255"
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">flow (<flowSpan
+   id="flowSpan3468"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan8376">c</flowSpan>)</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 139.33386,352.6389 H 116.66595"
+           id="path7203-6-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 139.33386,356.93799 H 117.4476"
+           id="path7205-3-8"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g8126-5-5"
+           transform="translate(-352.98211,-260.50176)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-4-0-8"
+             d="m 437.5153,613.5882 h 22.6679"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-2-4-3"
+             d="m 437.5153,617.88729 h 21.88625"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           transform="translate(7.4748123,-33.561243)"
+           id="g8021-9"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4">
+            <path
+               style="fill:url(#linearGradient7877-5-4);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-661.32029,-264.47996)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7"><rect
+               id="rect7048-4-2"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara8255-2"
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">*Acid/Base</flowPara><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8365"> flowrate (<flowSpan
+   id="flowSpan3464"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan8374">a/b</flowSpan>) </flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 161.94287,323.89902 H 139.27496"
+           id="path7203-6-7-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 159.94287,328.19811 H 138.05661"
+           id="path7205-3-8-3"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g8126-5-5-8"
+           transform="translate(-334.3731,-289.24164)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-4-0-8-3"
+             d="m 437.5153,613.5882 h 22.6679"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-2-4-3-2"
+             d="m 437.5153,617.88729 h 21.88625"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           transform="translate(26.083812,-62.301123)"
+           id="g8021-9-8"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4-6">
+            <path
+               style="fill:url(#linearGradient7877-5-4-4);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9-3);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8-6"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56-0"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6-5"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-655.03578,-287.93791)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6"><rect
+               id="rect7048-4-2-7"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8470">Sugar flow (<flowSpan
+   id="flowSpan3460"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan8473">s</flowSpan>) </flowPara></flowRoot>        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 185.9766,300.76001 H 163.30869"
+           id="path7203-6-7-6-8"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 185.9766,305.0591 H 164.09035"
+           id="path7205-3-8-3-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           style="display:inline"
+           id="g8126-5-5-8-6"
+           transform="translate(-308.33937,-312.38066)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-4-0-8-3-1"
+             d="m 437.5153,613.5882 h 22.6679"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-2-4-3-2-7"
+             d="m 437.5153,617.88729 h 21.88625"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           style="display:inline"
+           transform="translate(52.11754,-85.440141)"
+           id="g8021-9-8-2"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4-6-3">
+            <path
+               style="fill:url(#linearGradient7877-5-4-4-7);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0-7"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9-3-1);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1-8"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2-5"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8-6-8"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56-0-5"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6-5-8"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-618.51142,-321.93302)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3"><rect
+               id="rect7048-4-2-7-3"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8470-1">Water for injection </flowPara><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579"> flow (<flowSpan
+   id="flowSpan3452"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan8473-0">w</flowSpan>) </flowPara></flowRoot>        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:0.96690702px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 176.36721,681.53251 H 155.17478"
+           id="path7203-6-7-6-8-9"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.04697788px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 180.02795,685.8316 H 156.03706"
+           id="path7205-3-8-3-7-1"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           style="display:inline"
+           id="g8126-5-5-8-6-5"
+           transform="translate(-314.44073,68.391838)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path7203-4-0-8-3-1-7"
+             d="m 414.5796,613.5882 h 45.6036"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path7205-2-4-3-2-7-3"
+             d="m 415.1677,618.47538 44.23385,-0.58809"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           style="display:inline"
+           transform="translate(46.016181,295.33237)"
+           id="g8021-9-8-2-3"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4-6-3-4">
+            <path
+               style="fill:url(#linearGradient7877-5-4-4-7-8);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0-7-2"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9-3-1-9);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1-8-2"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2-5-0"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8-6-8-1"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56-0-5-2"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6-5-8-7"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-653.82185,69.284541)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-0"><rect
+               id="rect7048-4-2-7-3-2"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-1">Aeration rate (<flowSpan
+   id="flowSpan3472"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan8678">g</flowSpan>) </flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:2.85159945;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 177.88344,683.15037 v 0 l 106.22463,1.19144"
+           id="path8689"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g8837"
+           transform="matrix(1,0,0,0.50028782,-6,366.55231)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-6-7-6-8-8"
+             d="M 291.29581,756.69478 V 734.02687"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-3-8-3-7-3"
+             d="M 286.99672,756.69478 V 734.80853"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           style="display:inline"
+           id="g8126-5-5-8-6-7"
+           transform="rotate(90,317.02883,581.40764)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-4-0-8-3-1-5"
+             d="m 437.5153,613.5882 h 22.6679"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-2-4-3-2-7-8"
+             d="m 437.5153,617.88729 h 21.88625"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           style="display:inline"
+           transform="rotate(90,27.064995,644.43096)"
+           id="g8021-9-8-2-1"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4-6-3-7">
+            <path
+               style="fill:url(#linearGradient7877-5-4-4-7-3);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0-7-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9-3-1-0);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1-8-4"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2-5-8"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8-6-8-8"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56-0-5-1"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6-5-8-3"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-373.02597,103.13125)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-0-7"><rect
+               id="rect7048-4-2-7-3-2-8"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-1-9">Discharge rate  </flowPara><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8873">(<flowSpan
+   id="flowSpan3478"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F<flowSpan
+   id="flowSpan3482"
+   style="font-size:64.99999762%;baseline-shift:sub">dis</flowSpan></flowSpan>) </flowPara></flowRoot>        <g
+           id="g8931"
+           transform="matrix(0.66105197,0,0,0.66105197,97.699878,98.004798)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path8876"
+             d="M 252.10488,287.64403 263.93204,262.1223"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8876-5"
+             d="M 307.19448,287.64403 295.36733,262.1223"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect8920"
+             d="m 269.64922,232.55443 h 19.06716 c 4.54675,0 8.20714,3.7246 8.20714,8.35111 v 39.32108 c 0,4.62652 -3.66039,8.35112 -8.20714,8.35112 h -19.06716 c -4.54674,0 -8.20713,-3.7246 -8.20713,-8.35112 v -39.32108 c 0,-4.62651 3.66039,-8.35111 8.20713,-8.35111 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             transform="translate(-13.072105,-0.6224812)"
+             inkscape:connector-curvature="0"
+             id="path8922"
+             d="m 270.96288,281.98066 2.28735,-4.94233 0.37515,3.73015 c 0.20633,2.05158 0.69653,4.05153 1.08934,4.44434 1.32581,1.32581 0.72744,1.71016 -2.6625,1.71016 h -3.37669 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8927"
+             d="m 292.86602,286.84805 c 2.52861,-2.62116 2.57777,-2.81683 2.83945,-11.30518 l 0.25012,-8.1127 6.00269,9.99604 c 3.30146,5.49782 6.0777,10.14983 6.16941,10.33776 0.0922,0.18913 -3.54896,0.34173 -8.15408,0.34173 h -8.32082 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8929"
+             d="m 252.77939,288.98203 c 0,-0.2027 2.10106,-4.93553 4.66902,-10.51715 4.6099,-10.01993 4.66984,-10.10816 4.73398,-6.96913 0.0906,4.4369 1.82263,12.57705 3.11581,14.64401 0.59467,0.95045 0.91392,1.90328 0.70942,2.11745 -0.48551,0.50844 -13.22823,1.2067 -13.22823,0.72482 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+           id="rect8939"
+           width="11.727534"
+           height="1.6459696"
+           x="276.58408"
+           y="250.29514"
+           ry="0.063306525"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-418.6083,-374.9771)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-6"><rect
+               id="rect7048-4-2-7-3-3"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-0">Agitator power (<flowSpan
+   id="flowSpan3444"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">P</flowSpan><flowSpan
+   id="flowSpan3442"
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub">ag</flowSpan><flowSpan
+   id="flowSpan3446"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">) </flowSpan></flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 390.91819,387.55226 h 46.68609"
+           id="path8224"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g9713"
+           transform="translate(-23.490929,-14.580576)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="path7203-6-7-6-8-7"
+             d="M 402.09747,314.73311 V 292.0652"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7205-3-8-3-7-2"
+             d="M 397.79838,314.73311 V 292.84686"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <g
+             id="g8021-9-8-2-9"
+             transform="rotate(90,302.71177,485.58583)"
+             style="display:inline">
+            <g
+               id="g7249-4-4-6-3-44"
+               transform="matrix(-1,0,0,1,592.01907,-169.61777)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7209-9-4-0-7-8"
+                 d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+                 style="fill:url(#linearGradient9772);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7209-6-0-6-1-8-27"
+                 d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+                 style="fill:url(#linearGradient9774);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <ellipse
+                 transform="translate(20.371783,-3.126606)"
+                 id="path7207-5-9-2-5-2"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 cx="464.69196"
+                 cy="561.28949"
+                 rx="6.6440396"
+                 ry="6.448627" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,1,569.58402,-171.37649)"
+               id="g7268-3-8-6-8-5">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7258-9-56-0-5-8"
+                 d="m 462.34295,554.093 v -6.90889"
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)"
+                 sodipodi:end="3.1415927"
+                 sodipodi:start="6.2694875"
+                 d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+                 sodipodi:ry="8.4288464"
+                 sodipodi:rx="8.4288464"
+                 sodipodi:cy="533.78088"
+                 sodipodi:cx="497.57831"
+                 id="path7266-1-6-5-8-4"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 sodipodi:type="arc" />
+            </g>
+          </g>
+          <flowRoot
+             transform="translate(-256.87902,-328.76199)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot7044-5-0-4-7-73"
+             xml:space="preserve"><flowRegion
+               id="flowRegion7046-5-7-6-3-9"><rect
+                 y="606.03906"
+                 x="601.87183"
+                 height="51.589016"
+                 width="214.95422"
+                 id="rect7048-4-2-7-3-5" /></flowRegion><flowPara
+               id="flowPara8579-9"
+               style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">Back pressure </flowPara><flowPara
+               id="flowPara9088"
+               style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">control valve</flowPara><flowPara
+               id="flowPara9085"
+               style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"> </flowPara></flowRoot>          <path
+             inkscape:connector-curvature="0"
+             id="path9092"
+             d="m 402.76114,278.93615 v -24.00587 h 82.54724"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9098"
+             d="M 397.15764,277.68121 V 231.58963"
+             style="fill:none;stroke:#000000;stroke-width:0.99022716;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9157"
+             d="m 402.87973,249.69142 h 82.31005"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <g
+             id="g8021-9-8-2-9-1"
+             transform="translate(338.62001,-136.99901)"
+             style="display:inline">
+            <g
+               id="g7249-4-4-6-3-44-0"
+               transform="matrix(-1,0,0,1,592.01907,-169.61777)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7209-9-4-0-7-8-4"
+                 d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+                 style="fill:url(#linearGradient9776);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7209-6-0-6-1-8-27-0"
+                 d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+                 style="fill:url(#linearGradient9778);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <ellipse
+                 transform="translate(20.371783,-3.126606)"
+                 id="path7207-5-9-2-5-2-7"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 cx="464.69196"
+                 cy="561.28949"
+                 rx="6.6440396"
+                 ry="6.448627" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,1,569.58402,-171.37649)"
+               id="g7268-3-8-6-8-5-9">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7258-9-56-0-5-8-0"
+                 d="m 462.34295,554.093 v -6.90889"
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)"
+                 sodipodi:end="3.1415927"
+                 sodipodi:start="6.2694875"
+                 d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+                 sodipodi:ry="8.4288464"
+                 sodipodi:rx="8.4288464"
+                 sodipodi:cy="533.78088"
+                 sodipodi:cx="497.57831"
+                 id="path7266-1-6-5-8-4-8"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 sodipodi:type="arc" />
+            </g>
+          </g>
+          <g
+             transform="translate(-3.7348872,3.112406)"
+             id="g9171">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+               x="494.25006"
+               y="244.38159"
+               id="text9161"><tspan
+                 sodipodi:role="line"
+                 id="tspan9163"
+                 x="494.25006"
+                 y="244.38159"
+                 style="font-size:12px;line-height:1.25">Off-gas</tspan><tspan
+                 sodipodi:role="line"
+                 x="494.25006"
+                 y="259.38159"
+                 id="tspan9165"
+                 style="font-size:12px;line-height:1.25">analysis</tspan></text>
+            <rect
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.67002869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect9167"
+               width="48.883507"
+               height="30.831551"
+               x="489.10526"
+               y="233.63443"
+               ry="0.041257605" />
+          </g>
+          <rect
+             ry="0.063306525"
+             y="200.18541"
+             x="559.6106"
+             height="21.16436"
+             width="6.8472934"
+             id="rect9169"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9177"
+             d="M 402.74533,250.25272 V 231.35191"
+             style="fill:none;stroke:#000000;stroke-width:1.04135358px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(-309.18796,-398.63041)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot7044-5-0-4-7-73-1"
+             xml:space="preserve"><flowRegion
+               id="flowRegion7046-5-7-6-3-9-4"><rect
+                 y="606.03906"
+                 x="601.87183"
+                 height="51.589016"
+                 width="214.95422"
+                 id="rect7048-4-2-7-3-5-0" /></flowRegion><flowPara
+               id="flowPara9088-9"
+               style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle">Vent</flowPara><flowPara
+               id="flowPara9085-5"
+               style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"> </flowPara></flowRoot>          <g
+             transform="matrix(0,-0.7870475,-0.7870475,0,839.02319,614.47827)"
+             id="g7249-4-4-6-3-44-9">
+            <path
+               style="fill:url(#linearGradient9780);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0-7-8-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient9782);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1-8-27-5"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2-5-2-1"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="path9282"
+             d="m 397.143,223.21722 v -3.42364 h -0.31124"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9282-1"
+             d="m 401.96724,223.21721 v -3.42364 h 0.31124"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(-128.58488,-399.76402)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot7044-7"
+             xml:space="preserve"><flowRegion
+               id="flowRegion7046-3"><rect
+                 y="606.03906"
+                 x="601.87183"
+                 height="51.589016"
+                 width="214.95422"
+                 id="rect7048-3" /></flowRegion><flowPara
+               id="flowPara7050-07"
+               style="font-size:12px;line-height:1.25">Off-gas CO<flowSpan
+   id="flowSpan9331"
+   style="font-size:65.00091553%;baseline-shift:sub">2</flowSpan> (<flowSpan
+   id="flowSpan3496"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">CO</flowSpan><flowSpan
+   id="flowSpan9363"
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub">2,og</flowSpan>)</flowPara></flowRoot>          <flowRoot
+             transform="translate(-129.5498,-385.45626)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot7044-7-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion7046-3-6"><rect
+                 y="606.03906"
+                 x="601.87183"
+                 height="51.589016"
+                 width="214.95422"
+                 id="rect7048-3-0" /></flowRegion><flowPara
+               id="flowPara7050-07-2"
+               style="font-size:12px;line-height:1.25">Off-gas O<flowSpan
+   id="flowSpan9331-8"
+   style="font-size:65.00091553%;baseline-shift:sub">2</flowSpan> (<flowSpan
+   id="flowSpan3492"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">O</flowSpan><flowSpan
+   id="flowSpan9367"
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub">2,og</flowSpan>)</flowPara></flowRoot>        </g>
+        <g
+           id="g9428"
+           transform="matrix(1.5906551,0,0,1.5906551,-145.70328,-415.29132)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <rect
+             ry="1.0143306"
+             y="702.66022"
+             x="231.8383"
+             height="19.234886"
+             width="24.199316"
+             id="rect9369"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.48611477;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <rect
+             ry="2.3861854"
+             transform="translate(-13.072105,-0.6224812)"
+             y="704.68524"
+             x="246.86781"
+             height="8.0189075"
+             width="20.620049"
+             id="rect9371"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <path
+             transform="translate(-13.072105,-0.6224812)"
+             inkscape:connector-curvature="0"
+             id="path9377"
+             d="m 248.88234,713.16127 h 16.40315"
+             style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             transform="translate(-13.072105,-0.6224812)"
+             inkscape:connector-curvature="0"
+             id="path9381"
+             d="m 249.69237,712.95877 15.59312,2.22758 -15.1881,2.02508 15.1881,2.02508 -15.39061,1.01254 15.1881,1.62007 -15.39061,0.40501"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-518.73968,97.407658)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-0-8"><rect
+               id="rect7048-4-2-7-3-2-9"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-1-99">Weight load</flowPara><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara9421"> cell (<flowSpan
+   id="flowSpan3476"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">W</flowSpan>) </flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot9501"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion9503"><rect
+               id="rect9505"
+               width="305.86404"
+               height="60.714588"
+               x="262.33286"
+               y="400.53952" /></flowRegion><flowPara
+             id="flowPara9507"
+             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:1.63813651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect9784"
+           width="14.0352"
+           height="9.8795347"
+           x="512.70709"
+           y="-105.70977"
+           transform="matrix(0.65798524,0.75303083,-0.71495615,0.6991693,0,0)"
+           ry="0.05147443"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <ellipse
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="path9788"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           cx="420.81165"
+           cy="327.18103"
+           rx="3.240128"
+           ry="3.442636" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-6-6-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-181.16923,-299.72443)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-1-4-2"><rect
+               id="rect7048-8-2-2"
+               width="80.71167"
+               height="14.617997"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             id="flowPara7331-3-2"
+             style="font-size:12px;line-height:1.25">Foaming sensor</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-588.743,-349.39074)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8"><rect
+               id="rect7048-4-2-7-3-9"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7">Oil flow (<flowSpan
+   id="flowSpan3448"
+   style="font-style:italic;-inkscape-font-specification:'Times New Roman, Italic'">F</flowSpan><flowSpan
+   style="font-style:italic;font-size:65.00091553%;-inkscape-font-specification:'Times New Roman, Italic';baseline-shift:sub"
+   id="flowSpan9924">oil</flowSpan>) </flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 218.77129,295.48409 V 262.55078 H 171.13561"
+           id="path9926"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           sodipodi:nodetypes="ccc"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           style="display:inline"
+           transform="translate(75.44485,-125.20716)"
+           id="g8021-9-8-2-2"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             transform="matrix(-1,0,0,1,592.01907,-169.61777)"
+             id="g7249-4-4-6-3-9">
+            <path
+               style="fill:url(#linearGradient7877-5-4-4-7-5);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 473.14058,551.61656 0.19541,13.09266 11.72477,-7.42569 z"
+               id="path7209-9-4-0-7-3"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#linearGradient7879-5-9-3-1-6);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 496.98692,551.61656 -0.19541,13.09266 -11.72477,-7.42569 z"
+               id="path7209-6-0-6-1-8-8"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7207-5-9-2-5-5"
+               transform="translate(20.371783,-3.126606)"
+               cx="464.69196"
+               cy="561.28949"
+               rx="6.6440396"
+               ry="6.448627" />
+          </g>
+          <g
+             id="g7268-3-8-6-8-15"
+             transform="matrix(-1,0,0,1,569.58402,-171.37649)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 462.34295,554.093 v -6.90889"
+               id="path7258-9-56-0-5-6"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path7266-1-6-5-8-6"
+               sodipodi:cx="497.57831"
+               sodipodi:cy="533.78088"
+               sodipodi:rx="8.4288464"
+               sodipodi:ry="8.4288464"
+               d="m 506.00636,533.66543 a 8.4288464,8.4288464 0 0 1 -4.14715,7.37626 8.4288464,8.4288464 0 0 1 -8.46195,0.058 8.4288464,8.4288464 0 0 1 -4.2478,-7.31877 l 8.42885,0 z"
+               sodipodi:start="6.2694875"
+               sodipodi:end="3.1415927"
+               transform="matrix(0.61996999,0,0,-0.61996999,154.14508,879.52614)" />
+          </g>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-213.7138,-239.14352)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9"><rect
+               id="rect7048-4-2-7-3-9-1"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7-8">Foam breaker </flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-636.09482,-189.8638)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9-8"><rect
+               id="rect7048-4-2-7-3-9-1-2"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7-8-3">Baffel plates </flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 118.20707,422.51258 35.87379,15.87856"
+           id="path10009"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 470.47589,372.52452 407.54974,351.9412"
+           id="path10011"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-633.74244,-145.16859)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9-4"><rect
+               id="rect7048-4-2-7-3-9-1-8"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7-8-5">Ruston impeller</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 218.77129,516.60776 -88.21423,-46.4595"
+           id="path10040"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-623.75068,-47.569821)"
+           inkscape:transform-center-x="-8.821423"
+           inkscape:transform-center-y="-11.761897"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9-4-3"><rect
+               id="rect7048-4-2-7-3-9-1-8-2"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7-8-5-8">Cooling coils </flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 201.71654,611.29103 136.43801,567.18392"
+           id="path10069"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+           d="M 223.72507,657.30862 H 370.9345"
+           id="path3668"
+           inkscape:connector-curvature="0"
+           transform="translate(-13.072105,-0.6224812)" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5248"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-13.072105,-0.6224812)"><flowRegion
+             id="flowRegion5250"><rect
+               id="rect5252"
+               width="29.940901"
+               height="26.614136"
+               x="285.27026"
+               y="639.84308" /></flowRegion><flowPara
+             id="flowPara5254"
+             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7-9-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-423.22363,28.748901)"
+           inkscape:transform-center-x="-8.821423"
+           inkscape:transform-center-y="-11.761897"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9-4-3-5"><rect
+               id="rect7048-4-2-7-3-9-1-8-2-2"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:65.00091553%;line-height:1.25;text-align:center;baseline-shift:sub;text-anchor:middle"
+             id="flowPara8579-7-8-5-8-7"><flowSpan
+               id="flowSpan3430"
+               style="font-size:16px">r</flowSpan><flowSpan
+               id="flowSpan3432">imp </flowSpan></flowPara></flowRoot>        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+           d="M 285.92107,394.70325 H 433.1305"
+           id="path3668-3"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-5-0-4-7-8-7-9-1-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-351.58389,-226.68129)"
+           inkscape:transform-center-x="-8.821423"
+           inkscape:transform-center-y="-11.761897"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-5-7-6-3-8-9-4-3-5-7"><rect
+               id="rect7048-4-2-7-3-9-1-8-2-2-6"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906" /></flowRegion><flowPara
+             style="font-size:12px;line-height:1.25;text-align:center;text-anchor:middle"
+             id="flowPara8579-7-8-5-8-7-1">r</flowPara></flowRoot>        <text
+           transform="translate(-13.072105,-0.6224812)"
+           id="text6263"
+           y="512.59424"
+           x="592.16449"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="512.59424"
+             x="592.16449"
+             id="tspan6265"
+             sodipodi:role="line"
+             style="font-size:12px;line-height:1.25"> </tspan></text>
+        <text
+           id="text11714"
+           y="551.4826"
+           x="484.05838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:12px;line-height:1.25;-inkscape-font-specification:'Times New Roman, Bold'"
+             y="551.4826"
+             x="484.05838"
+             id="tspan11716"
+             sodipodi:role="line">Off-line measurements</tspan></text>
+        <path
+           transform="translate(8.319153,185.60483)"
+           inkscape:connector-curvature="0"
+           id="path3438"
+           d="m 150.25824,81.387908 11.7619,-0.294047"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           transform="translate(8.319153,185.60483)"
+           inkscape:connector-curvature="0"
+           id="path3440"
+           d="m 186.13202,81.387908 h 6.7631 v 28.228552"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           ns0:preamble="C:\\Users\\user\\Dropbox\\EngD\\Simulation Paper DEADLINE 30 Sep\\Latex preamble\\Preamble.tex"
+           ns0:text="\\begin{equation*}\n\\mu_{vis}\n\\end{equation*}\n"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,159.90396,1085.5373)"
+           id="content">
+<path
+   id="path4046"
+   d="m 388.93,480.72 v 0.02 l 0.01,0.02 v 0.02 l 0.01,0.03 v 0.02 l 0.01,0.02 0.01,0.05 0.01,0.05 0.02,0.05 0.01,0.05 0.01,0.05 0.01,0.02 v 0.03 l 0.01,0.02 v 0.02 l 0.01,0.02 v 0.02 l 0.01,0.02 v 0.02 0.01 l 0.01,0.02 v 0.01 0.01 0.02 h 0.01 v 0.01 0.01 0 c 0,0.17 -0.12,0.27 -0.29,0.27 -0.03,0 -0.31,-0.01 -0.4,-0.36 l -1.43,-5.75 c -0.03,-0.12 -0.03,-0.14 -0.03,-0.16 0,-0.15 0.11,-0.27 0.28,-0.27 0.21,0 0.33,0.18 0.34,0.21 0.05,0.09 0.17,0.6 0.55,2.13 0.32,-0.26 0.77,-0.3 0.97,-0.3 0.69,0 1.08,0.44 1.32,0.72 0.09,-0.45 0.46,-0.72 0.9,-0.72 0.34,0 0.57,0.22 0.73,0.54 0.17,0.36 0.3,0.97 0.3,0.99 0,0.1 -0.09,0.1 -0.12,0.1 -0.1,0 -0.11,-0.05 -0.14,-0.18 -0.17,-0.65 -0.35,-1.24 -0.75,-1.24 -0.27,0 -0.3,0.26 -0.3,0.46 0,0.22 0.12,0.69 0.2,1.03 l 0.27,1.08 c 0.04,0.15 0.13,0.52 0.17,0.67 0.05,0.23 0.15,0.61 0.15,0.67 0,0.18 -0.14,0.27 -0.28,0.27 -0.06,0 -0.31,-0.01 -0.39,-0.35 l -0.47,-1.86 c -0.12,-0.5 -0.23,-0.91 -0.26,-1.01 -0.01,-0.05 -0.49,-0.96 -1.29,-0.96 -0.5,0 -0.74,0.33 -0.74,0.87 0,0.29 0.07,0.56 0.14,0.84 z"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:0" />
+<path
+   id="path4048"
+   d="m 396.35,478.27 v 0.02 0.02 0.03 0.02 0.02 l -0.01,0.02 v 0.02 0.02 l -0.01,0.02 v 0.02 0.02 l -0.01,0.02 v 0.01 l -0.01,0.02 v 0.02 l -0.01,0.01 -0.01,0.01 v 0.02 l -0.01,0.01 v 0.01 l -0.01,0.02 -0.01,0.01 -0.01,0.01 v 0.01 l -0.01,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.02 -0.01,0.01 -0.02,0.02 -0.02,0.01 -0.01,0.01 h -0.02 l -0.01,0.01 -0.02,0.01 h -0.01 l -0.01,0.01 h -0.01 -0.02 -0.01 -0.01 v 0 h -0.01 v 0 l -0.01,0.01 c -0.18,0 -0.37,-0.19 -0.37,-0.37 0,-0.12 0.07,-0.18 0.12,-0.22 0.11,-0.1 0.25,-0.28 0.25,-0.56 0,-0.31 -0.46,-1.8 -1.29,-1.8 -0.56,0 -0.56,0.5 -0.56,0.61 0,0.32 0.13,0.71 0.38,1.36 0.06,0.15 0.1,0.25 0.1,0.37 0,0.36 -0.3,0.6 -0.66,0.6 -0.7,0 -1.01,-0.95 -1.01,-1.07 0,-0.09 0.1,-0.09 0.12,-0.09 0.1,0 0.1,0.04 0.12,0.11 0.17,0.57 0.47,0.85 0.75,0.85 0.12,0 0.17,-0.07 0.17,-0.24 0,-0.16 -0.05,-0.31 -0.12,-0.47 -0.3,-0.77 -0.38,-1.07 -0.38,-1.32 0,-0.69 0.55,-0.91 1.07,-0.91 1.17,0 1.66,2.03 1.66,2.6 z"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:0" />
+<path
+   id="path4050"
+   d="m 399.13,480.09 -0.01,0.01 v 0.01 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.02 l -0.01,0.01 v 0.01 l -0.01,0.01 v 0.01 l -0.01,0.01 -0.01,0.01 v 0.01 l -0.01,0.01 -0.01,0.01 -0.01,0.01 -0.01,0.01 -0.01,0.01 h -0.01 l -0.01,0.01 -0.01,0.01 -0.02,0.01 h -0.01 l -0.01,0.01 h -0.02 -0.02 l -0.01,0.01 h -0.02 -0.02 -0.01 c -0.19,0 -0.39,-0.18 -0.39,-0.38 0,-0.12 0.09,-0.27 0.27,-0.27 0.21,0 0.4,0.2 0.4,0.39 z"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:0" />
+<path
+   id="path4052"
+   d="m 397.7,476.55 v -0.01 l -0.01,-0.02 -0.01,-0.03 v -0.02 l -0.01,-0.02 v -0.01 l -0.01,-0.02 v -0.02 l -0.01,-0.02 v -0.02 -0.01 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.02 -0.01 -0.01 -0.01 c 0,-0.32 0.28,-0.59 0.66,-0.59 0.7,0 1.01,0.96 1.01,1.06 0,0.1 -0.09,0.1 -0.11,0.1 -0.1,0 -0.11,-0.05 -0.14,-0.12 -0.16,-0.56 -0.46,-0.84 -0.74,-0.84 -0.14,0 -0.17,0.09 -0.17,0.24 0,0.16 0.05,0.29 0.11,0.44 0.07,0.19 0.15,0.38 0.22,0.56 0.07,0.17 0.32,0.8 0.35,0.88 0.02,0.07 0.04,0.16 0.04,0.23 0,0.32 -0.28,0.59 -0.66,0.59 -0.69,0 -1.01,-0.95 -1.01,-1.07 0,-0.09 0.09,-0.09 0.12,-0.09 0.09,0 0.1,0.04 0.12,0.11 0.18,0.6 0.49,0.85 0.74,0.85 0.12,0 0.18,-0.05 0.18,-0.24 0,-0.16 -0.04,-0.26 -0.22,-0.7 z"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:0" />
+<path
+   id="path4054"
+   d="m 402.69,478.36 -0.02,-0.01 h -0.01 l -0.02,-0.01 h -0.02 l -0.01,-0.01 -0.02,-0.01 -0.01,-0.01 h -0.01 l -0.02,-0.01 -0.01,-0.01 -0.01,-0.01 -0.01,-0.01 -0.01,-0.01 -0.01,-0.01 -0.02,-0.01 v -0.01 l -0.01,-0.01 -0.01,-0.01 -0.01,-0.02 -0.01,-0.01 -0.01,-0.01 v -0.01 l -0.01,-0.01 v -0.02 l -0.01,-0.01 v -0.01 l -0.01,-0.02 v -0.01 -0.01 -0.01 -0.02 -0.01 c 0,-0.16 0.14,-0.22 0.23,-0.22 0.07,0 0.33,0.04 0.33,0.39 0,0.45 -0.5,0.61 -0.92,0.61 -1.09,0 -1.29,-0.8 -1.29,-1.02 0,-0.25 0.15,-0.42 0.25,-0.5 0.18,-0.14 0.3,-0.17 0.78,-0.26 0.15,-0.02 0.6,-0.11 0.6,-0.45 0,-0.12 -0.08,-0.39 -0.37,-0.56 -0.28,-0.15 -0.62,-0.15 -0.7,-0.15 -0.28,0 -0.67,0.06 -0.83,0.29 0.22,0.03 0.38,0.2 0.38,0.39 0,0.18 -0.13,0.26 -0.27,0.26 -0.21,0 -0.41,-0.16 -0.41,-0.46 0,-0.42 0.45,-0.68 1.12,-0.68 1.28,0 1.52,0.88 1.52,1.15 0,0.64 -0.7,0.76 -0.96,0.81 -0.06,0.02 -0.24,0.04 -0.28,0.06 -0.26,0.05 -0.38,0.19 -0.38,0.35 0,0.16 0.12,0.34 0.28,0.44 0.19,0.12 0.43,0.13 0.55,0.13 0.14,0 0.51,-0.02 0.66,-0.25 z"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:0" />
+</g>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7044-0-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
+           transform="translate(-212.52034,89.737722)"
+           inkscape:export-filename="C:\Users\admin\Dropbox\EngD\Perceptive\Simulation work\GUI for IndPenSim\IndPenSim Code\Final Version 17 Jan 2014\GUI Code\GUI testing code\g7055.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7046-9-4-1"
+             style="fill:#0000ff"><rect
+               id="rect7048-0-6-4"
+               width="214.95422"
+               height="51.589016"
+               x="601.87183"
+               y="606.03906"
+               style="fill:#0000ff" /></flowRegion><flowPara
+             id="flowPara7050-0-0-1"
+             style="font-size:12px;line-height:1.25;fill:#0000ff">Raman spectroscopy probe (<flowSpan
+   style="font-style:italic;fill:#0000ff"
+   id="flowSpan536">X</flowSpan><flowSpan
+   style="font-style:italic;font-size:64.99999762%;baseline-shift:sub;fill:#0000ff"
+   id="flowSpan534">Spectra</flowSpan>)</flowPara></flowRoot>        <ellipse
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0000ff;stroke:#000000;stroke-width:3.02987933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="path7040-1-9-7"
+           cx="365.46674"
+           cy="685.84143"
+           rx="5.6238093"
+           ry="6.5824966" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.21195173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 365.978,685.40259 25.05151,11.8485"
+           id="path7042-3-3-6"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
